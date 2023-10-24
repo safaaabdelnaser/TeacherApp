@@ -1,0 +1,32 @@
+{
+  "statusPayment": [
+    {
+      "month": 4,
+      "Payment": 80,
+      "NotPayment": 60
+    },
+    {
+      "month": 5,
+      "Payment": 120,
+      "NotPayment": 90
+    },
+    {
+      "month": 7,
+      "Payment": 110,
+      "NotPayment": 80
+    },
+    {
+      "month": 8,
+      "Payment": 130,
+      "NotPayment": 85
+    }
+  ],
+  "statusProfit": [
+    { "name": "المدفوعات", "value": 50 },
+    { "name": "باقى الربح", "value": 40 },
+    { "name": "ربح معلم 1", "value": 35 },
+    { "name": "ربح معلم 2", "value": 30 },
+    { "name": "ربح معلم 3", "value": 30 },
+    { "name": "ربح معلم 4", "value": 30 }
+  ]
+}
